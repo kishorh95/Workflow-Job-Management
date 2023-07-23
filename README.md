@@ -12,3 +12,7 @@ URL of the Project http://10.10.10.250:4848/prohancei/workflow/job/
 
 
 
+![Screenshot 2023-07-24 005654](https://github.com/kishorh95/Workflow-Job-Management/assets/88595852/91767c40-8011-4b50-8f0f-437c10286e62)
+
+
+![Screenshot 2023-07-24 005734](https://github.com/kishorh95/Workflow-Job-Management/assets/88595852/bdee21f7-8a8c-4574-8953-f26c33c47402)
